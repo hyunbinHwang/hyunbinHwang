@@ -28,6 +28,7 @@
 <br><br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyunbinHwang&show_icons=true&theme=vue)
+﻿[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyunbinHwang&langs_count=10&layout=compact&theme=default)](https://github.com/hyunbinHwang/hyunbinHwang)
 
 <!--
 **hyunbinHwang/hyunbinHwang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
