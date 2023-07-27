@@ -29,7 +29,7 @@
 <br><br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyunbinHwang&show_icons=true&theme=vue)
-﻿[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyunbinHwang&langs_count=10&layout=compact&theme=default)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyunbinHwang&layout=compact&theme=default)
  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kj004419)](https://solved.ac/kj004419/)
 
 <!--
